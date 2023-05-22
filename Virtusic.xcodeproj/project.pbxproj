@@ -1,0 +1,596 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9BD5A1312A1BCA8600D9ED61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */; };
+		9BD5A1332A1BCA8600D9ED61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */; };
+		9BD5A1352A1BCA8600D9ED61 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1342A1BCA8600D9ED61 /* Experience.rcproject */; };
+		9BD5A1372A1BCA8700D9ED61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD5A1362A1BCA8700D9ED61 /* Assets.xcassets */; };
+		9BD5A13A2A1BCA8700D9ED61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD5A1392A1BCA8700D9ED61 /* Preview Assets.xcassets */; };
+		9BD5A1442A1BCA8700D9ED61 /* VirtusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1432A1BCA8700D9ED61 /* VirtusicTests.swift */; };
+		9BD5A14E2A1BCA8700D9ED61 /* VirtusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A14D2A1BCA8700D9ED61 /* VirtusicUITests.swift */; };
+		9BD5A1502A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A14F2A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9BD5A1402A1BCA8700D9ED61 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9BD5A1252A1BCA8600D9ED61 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BD5A12C2A1BCA8600D9ED61;
+			remoteInfo = Virtusic;
+		};
+		9BD5A14A2A1BCA8700D9ED61 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9BD5A1252A1BCA8600D9ED61 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BD5A12C2A1BCA8600D9ED61;
+			remoteInfo = Virtusic;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9BD5A12D2A1BCA8600D9ED61 /* Virtusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Virtusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9BD5A1342A1BCA8600D9ED61 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
+		9BD5A1362A1BCA8700D9ED61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9BD5A1392A1BCA8700D9ED61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9BD5A13F2A1BCA8700D9ED61 /* VirtusicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VirtusicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BD5A1432A1BCA8700D9ED61 /* VirtusicTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtusicTests.swift; sourceTree = "<group>"; };
+		9BD5A1492A1BCA8700D9ED61 /* VirtusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VirtusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BD5A14D2A1BCA8700D9ED61 /* VirtusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtusicUITests.swift; sourceTree = "<group>"; };
+		9BD5A14F2A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtusicUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9BD5A12A2A1BCA8600D9ED61 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BD5A13C2A1BCA8700D9ED61 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BD5A1462A1BCA8700D9ED61 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9BD5A1242A1BCA8600D9ED61 = {
+			isa = PBXGroup;
+			children = (
+				9BD5A12F2A1BCA8600D9ED61 /* Virtusic */,
+				9BD5A1422A1BCA8700D9ED61 /* VirtusicTests */,
+				9BD5A14C2A1BCA8700D9ED61 /* VirtusicUITests */,
+				9BD5A12E2A1BCA8600D9ED61 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9BD5A12E2A1BCA8600D9ED61 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A12D2A1BCA8600D9ED61 /* Virtusic.app */,
+				9BD5A13F2A1BCA8700D9ED61 /* VirtusicTests.xctest */,
+				9BD5A1492A1BCA8700D9ED61 /* VirtusicUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9BD5A12F2A1BCA8600D9ED61 /* Virtusic */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */,
+				9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */,
+				9BD5A1342A1BCA8600D9ED61 /* Experience.rcproject */,
+				9BD5A1362A1BCA8700D9ED61 /* Assets.xcassets */,
+				9BD5A1382A1BCA8700D9ED61 /* Preview Content */,
+			);
+			path = Virtusic;
+			sourceTree = "<group>";
+		};
+		9BD5A1382A1BCA8700D9ED61 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A1392A1BCA8700D9ED61 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9BD5A1422A1BCA8700D9ED61 /* VirtusicTests */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A1432A1BCA8700D9ED61 /* VirtusicTests.swift */,
+			);
+			path = VirtusicTests;
+			sourceTree = "<group>";
+		};
+		9BD5A14C2A1BCA8700D9ED61 /* VirtusicUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A14D2A1BCA8700D9ED61 /* VirtusicUITests.swift */,
+				9BD5A14F2A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift */,
+			);
+			path = VirtusicUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9BD5A12C2A1BCA8600D9ED61 /* Virtusic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BD5A1532A1BCA8700D9ED61 /* Build configuration list for PBXNativeTarget "Virtusic" */;
+			buildPhases = (
+				9BD5A1292A1BCA8600D9ED61 /* Sources */,
+				9BD5A12A2A1BCA8600D9ED61 /* Frameworks */,
+				9BD5A12B2A1BCA8600D9ED61 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Virtusic;
+			productName = Virtusic;
+			productReference = 9BD5A12D2A1BCA8600D9ED61 /* Virtusic.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9BD5A13E2A1BCA8700D9ED61 /* VirtusicTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BD5A1562A1BCA8700D9ED61 /* Build configuration list for PBXNativeTarget "VirtusicTests" */;
+			buildPhases = (
+				9BD5A13B2A1BCA8700D9ED61 /* Sources */,
+				9BD5A13C2A1BCA8700D9ED61 /* Frameworks */,
+				9BD5A13D2A1BCA8700D9ED61 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9BD5A1412A1BCA8700D9ED61 /* PBXTargetDependency */,
+			);
+			name = VirtusicTests;
+			productName = VirtusicTests;
+			productReference = 9BD5A13F2A1BCA8700D9ED61 /* VirtusicTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9BD5A1482A1BCA8700D9ED61 /* VirtusicUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BD5A1592A1BCA8700D9ED61 /* Build configuration list for PBXNativeTarget "VirtusicUITests" */;
+			buildPhases = (
+				9BD5A1452A1BCA8700D9ED61 /* Sources */,
+				9BD5A1462A1BCA8700D9ED61 /* Frameworks */,
+				9BD5A1472A1BCA8700D9ED61 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9BD5A14B2A1BCA8700D9ED61 /* PBXTargetDependency */,
+			);
+			name = VirtusicUITests;
+			productName = VirtusicUITests;
+			productReference = 9BD5A1492A1BCA8700D9ED61 /* VirtusicUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9BD5A1252A1BCA8600D9ED61 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					9BD5A12C2A1BCA8600D9ED61 = {
+						CreatedOnToolsVersion = 14.3;
+					};
+					9BD5A13E2A1BCA8700D9ED61 = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = 9BD5A12C2A1BCA8600D9ED61;
+					};
+					9BD5A1482A1BCA8700D9ED61 = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = 9BD5A12C2A1BCA8600D9ED61;
+					};
+				};
+			};
+			buildConfigurationList = 9BD5A1282A1BCA8600D9ED61 /* Build configuration list for PBXProject "Virtusic" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9BD5A1242A1BCA8600D9ED61;
+			productRefGroup = 9BD5A12E2A1BCA8600D9ED61 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9BD5A12C2A1BCA8600D9ED61 /* Virtusic */,
+				9BD5A13E2A1BCA8700D9ED61 /* VirtusicTests */,
+				9BD5A1482A1BCA8700D9ED61 /* VirtusicUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9BD5A12B2A1BCA8600D9ED61 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD5A13A2A1BCA8700D9ED61 /* Preview Assets.xcassets in Resources */,
+				9BD5A1372A1BCA8700D9ED61 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BD5A13D2A1BCA8700D9ED61 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BD5A1472A1BCA8700D9ED61 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9BD5A1292A1BCA8600D9ED61 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD5A1332A1BCA8600D9ED61 /* ContentView.swift in Sources */,
+				9BD5A1312A1BCA8600D9ED61 /* AppDelegate.swift in Sources */,
+				9BD5A1352A1BCA8600D9ED61 /* Experience.rcproject in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BD5A13B2A1BCA8700D9ED61 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD5A1442A1BCA8700D9ED61 /* VirtusicTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BD5A1452A1BCA8700D9ED61 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD5A1502A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift in Sources */,
+				9BD5A14E2A1BCA8700D9ED61 /* VirtusicUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9BD5A1412A1BCA8700D9ED61 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BD5A12C2A1BCA8600D9ED61 /* Virtusic */;
+			targetProxy = 9BD5A1402A1BCA8700D9ED61 /* PBXContainerItemProxy */;
+		};
+		9BD5A14B2A1BCA8700D9ED61 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BD5A12C2A1BCA8600D9ED61 /* Virtusic */;
+			targetProxy = 9BD5A14A2A1BCA8700D9ED61 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9BD5A1512A1BCA8700D9ED61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9BD5A1522A1BCA8700D9ED61 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9BD5A1542A1BCA8700D9ED61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Virtusic/Preview Content\"";
+				DEVELOPMENT_TEAM = KCXWQSNV6P;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.areez.Virtusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9BD5A1552A1BCA8700D9ED61 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Virtusic/Preview Content\"";
+				DEVELOPMENT_TEAM = KCXWQSNV6P;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.areez.Virtusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9BD5A1572A1BCA8700D9ED61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KCXWQSNV6P;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.areez.VirtusicTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Virtusic.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Virtusic";
+			};
+			name = Debug;
+		};
+		9BD5A1582A1BCA8700D9ED61 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KCXWQSNV6P;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.areez.VirtusicTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Virtusic.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Virtusic";
+			};
+			name = Release;
+		};
+		9BD5A15A2A1BCA8700D9ED61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KCXWQSNV6P;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.areez.VirtusicUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Virtusic;
+			};
+			name = Debug;
+		};
+		9BD5A15B2A1BCA8700D9ED61 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KCXWQSNV6P;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.areez.VirtusicUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Virtusic;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9BD5A1282A1BCA8600D9ED61 /* Build configuration list for PBXProject "Virtusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BD5A1512A1BCA8700D9ED61 /* Debug */,
+				9BD5A1522A1BCA8700D9ED61 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BD5A1532A1BCA8700D9ED61 /* Build configuration list for PBXNativeTarget "Virtusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BD5A1542A1BCA8700D9ED61 /* Debug */,
+				9BD5A1552A1BCA8700D9ED61 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BD5A1562A1BCA8700D9ED61 /* Build configuration list for PBXNativeTarget "VirtusicTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BD5A1572A1BCA8700D9ED61 /* Debug */,
+				9BD5A1582A1BCA8700D9ED61 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BD5A1592A1BCA8700D9ED61 /* Build configuration list for PBXNativeTarget "VirtusicUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BD5A15A2A1BCA8700D9ED61 /* Debug */,
+				9BD5A15B2A1BCA8700D9ED61 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9BD5A1252A1BCA8600D9ED61 /* Project object */;
+}
