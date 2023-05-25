@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B15FFF92A1F0D9D007397EE /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B15FFF82A1F0D9D007397EE /* ARViewContainer.swift */; };
+		9B3E74092A1C81A200144527 /* PopUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3E74082A1C81A200144527 /* PopUpView.swift */; };
+		9B3E740B2A1C998500144527 /* StartPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3E740A2A1C998500144527 /* StartPage.swift */; };
+		9B3E740D2A1CB7EB00144527 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3E740C2A1CB7EB00144527 /* Tutorial.swift */; };
 		9BD5A1312A1BCA8600D9ED61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */; };
 		9BD5A1332A1BCA8600D9ED61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */; };
 		9BD5A1352A1BCA8600D9ED61 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1342A1BCA8600D9ED61 /* Experience.rcproject */; };
@@ -15,6 +19,9 @@
 		9BD5A1442A1BCA8700D9ED61 /* VirtusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A1432A1BCA8700D9ED61 /* VirtusicTests.swift */; };
 		9BD5A14E2A1BCA8700D9ED61 /* VirtusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A14D2A1BCA8700D9ED61 /* VirtusicUITests.swift */; };
 		9BD5A1502A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD5A14F2A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift */; };
+		9BE630F32A1E2F96000AFB34 /* OnboardingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE630F22A1E2F96000AFB34 /* OnboardingPage.swift */; };
+		9BE630F52A1E2FE0000AFB34 /* TutorialSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE630F42A1E2FE0000AFB34 /* TutorialSecond.swift */; };
+		9BE630F72A1E43B1000AFB34 /* HelpPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE630F62A1E43B1000AFB34 /* HelpPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +42,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B15FFF82A1F0D9D007397EE /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		9B3E74072A1C6B5100144527 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		9B3E74082A1C81A200144527 /* PopUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpView.swift; sourceTree = "<group>"; };
+		9B3E740A2A1C998500144527 /* StartPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPage.swift; sourceTree = "<group>"; };
+		9B3E740C2A1CB7EB00144527 /* Tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tutorial.swift; sourceTree = "<group>"; };
 		9BD5A12D2A1BCA8600D9ED61 /* Virtusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Virtusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -46,6 +58,9 @@
 		9BD5A1492A1BCA8700D9ED61 /* VirtusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VirtusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD5A14D2A1BCA8700D9ED61 /* VirtusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtusicUITests.swift; sourceTree = "<group>"; };
 		9BD5A14F2A1BCA8700D9ED61 /* VirtusicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtusicUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9BE630F22A1E2F96000AFB34 /* OnboardingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPage.swift; sourceTree = "<group>"; };
+		9BE630F42A1E2FE0000AFB34 /* TutorialSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialSecond.swift; sourceTree = "<group>"; };
+		9BE630F62A1E43B1000AFB34 /* HelpPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +88,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9B15FFFA2A1F123C007397EE /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				9B15FFFF2A1F13C5007397EE /* ARController */,
+				9B15FFFE2A1F1342007397EE /* Components */,
+				9B15FFFD2A1F1312007397EE /* View */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		9B15FFFB2A1F1277007397EE /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		9B15FFFC2A1F128E007397EE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A1342A1BCA8600D9ED61 /* Experience.rcproject */,
+				9BD5A1362A1BCA8700D9ED61 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		9B15FFFD2A1F1312007397EE /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */,
+				9B3E740A2A1C998500144527 /* StartPage.swift */,
+				9BE630F22A1E2F96000AFB34 /* OnboardingPage.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9B15FFFE2A1F1342007397EE /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				9B3E740C2A1CB7EB00144527 /* Tutorial.swift */,
+				9BE630F42A1E2FE0000AFB34 /* TutorialSecond.swift */,
+				9BE630F62A1E43B1000AFB34 /* HelpPage.swift */,
+				9B3E74082A1C81A200144527 /* PopUpView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		9B15FFFF2A1F13C5007397EE /* ARController */ = {
+			isa = PBXGroup;
+			children = (
+				9B15FFF82A1F0D9D007397EE /* ARViewContainer.swift */,
+			);
+			path = ARController;
+			sourceTree = "<group>";
+		};
 		9BD5A1242A1BCA8600D9ED61 = {
 			isa = PBXGroup;
 			children = (
@@ -96,10 +167,10 @@
 		9BD5A12F2A1BCA8600D9ED61 /* Virtusic */ = {
 			isa = PBXGroup;
 			children = (
-				9BD5A1302A1BCA8600D9ED61 /* AppDelegate.swift */,
-				9BD5A1322A1BCA8600D9ED61 /* ContentView.swift */,
-				9BD5A1342A1BCA8600D9ED61 /* Experience.rcproject */,
-				9BD5A1362A1BCA8700D9ED61 /* Assets.xcassets */,
+				9B3E74072A1C6B5100144527 /* Info.plist */,
+				9B15FFFB2A1F1277007397EE /* Application */,
+				9B15FFFA2A1F123C007397EE /* Features */,
+				9B15FFFC2A1F128E007397EE /* Resources */,
 				9BD5A1382A1BCA8700D9ED61 /* Preview Content */,
 			);
 			path = Virtusic;
@@ -261,8 +332,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BD5A1332A1BCA8600D9ED61 /* ContentView.swift in Sources */,
+				9B3E740D2A1CB7EB00144527 /* Tutorial.swift in Sources */,
+				9B3E74092A1C81A200144527 /* PopUpView.swift in Sources */,
+				9B3E740B2A1C998500144527 /* StartPage.swift in Sources */,
+				9BE630F52A1E2FE0000AFB34 /* TutorialSecond.swift in Sources */,
+				9BE630F72A1E43B1000AFB34 /* HelpPage.swift in Sources */,
 				9BD5A1312A1BCA8600D9ED61 /* AppDelegate.swift in Sources */,
 				9BD5A1352A1BCA8600D9ED61 /* Experience.rcproject in Sources */,
+				9BE630F32A1E2F96000AFB34 /* OnboardingPage.swift in Sources */,
+				9B15FFF92A1F0D9D007397EE /* ARViewContainer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,13 +502,16 @@
 				DEVELOPMENT_TEAM = KCXWQSNV6P;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Virtusic/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -455,13 +536,16 @@
 				DEVELOPMENT_TEAM = KCXWQSNV6P;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Virtusic/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

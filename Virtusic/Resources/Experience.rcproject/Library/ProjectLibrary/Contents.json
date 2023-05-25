@@ -1,0 +1,137 @@
+[
+  {
+    "libraryIdentifier" : "702ec8e387292b1bd9fdb0ac11fc9edc",
+    "format" : "image",
+    "displayName" : "Angklung.png"
+  },
+  {
+    "libraryIdentifier" : "637f22db6e12f6569d691d5d46647dcc",
+    "format" : "model",
+    "displayName" : "Anklung_Java.usdz"
+  },
+  {
+    "libraryIdentifier" : "db63575333ef8d87543fe37bd5ef0baa",
+    "format" : "audio",
+    "displayName" : "74289__parking-sun__d4-bandung-angklung-vib.aiff"
+  },
+  {
+    "libraryIdentifier" : "9fca6e261d763d2d4efd22b7fdda0439",
+    "format" : "image",
+    "displayName" : "Angklung.png"
+  },
+  {
+    "libraryIdentifier" : "e0b023a99461155f5fdb408408219256",
+    "format" : "image",
+    "displayName" : "Gendang.png"
+  },
+  {
+    "libraryIdentifier" : "3db3f14138333ba3458e416bb247153a",
+    "format" : "image",
+    "displayName" : "Tifa.png"
+  },
+  {
+    "libraryIdentifier" : "b6c86620332364bd67fdd3c53fba6461",
+    "format" : "model",
+    "displayName" : "Tifa.usdz"
+  },
+  {
+    "libraryIdentifier" : "eb9ae1d308357b073b034c72429a90c7",
+    "format" : "audio",
+    "displayName" : "40387__hubertmichel__djembe-15.wav"
+  },
+  {
+    "libraryIdentifier" : "5a49df738cdd74a3ca71a3fd36527eb0",
+    "format" : "image",
+    "displayName" : "Saron.png"
+  },
+  {
+    "libraryIdentifier" : "eeac5022a0886f0f5a7ed2ac4e72efe9",
+    "format" : "model",
+    "displayName" : "Saron.usdz"
+  },
+  {
+    "libraryIdentifier" : "4cbe0f2e3d6cd009a4f2e9a0dada6392",
+    "format" : "audio",
+    "displayName" : "gamelan.mp3"
+  },
+  {
+    "libraryIdentifier" : "9ed69243af0a652fdd15582e9dfdb72b",
+    "format" : "image",
+    "displayName" : "Sapek.png"
+  },
+  {
+    "libraryIdentifier" : "578ba71b5873d3ab779cd10aa704e479",
+    "format" : "model",
+    "displayName" : "Sapek_Guitar.usdz"
+  },
+  {
+    "libraryIdentifier" : "c9f9763bc5df4f2ed113c3f0f01f838c",
+    "format" : "audio",
+    "displayName" : "sapek.mp3"
+  },
+  {
+    "libraryIdentifier" : "94f9ef5e55cccc12ce8fe8313e14de11",
+    "format" : "model",
+    "displayName" : "Gendang_Bulo.usdz"
+  },
+  {
+    "libraryIdentifier" : "097463b6d1414cc21dab100aaf9216f8",
+    "format" : "audio",
+    "displayName" : "348234__redafs__kendang-kendhang-or-gendang.wav"
+  },
+  {
+    "libraryIdentifier" : "7a1a7345095c4e7246256487a5c1d000",
+    "format" : "image",
+    "displayName" : "Card 1@1x.png"
+  },
+  {
+    "libraryIdentifier" : "b08027292a872bc6040d153375eb403e",
+    "format" : "image",
+    "displayName" : "Card 2@1x.png"
+  },
+  {
+    "libraryIdentifier" : "aeda2b92f0686d340a3be93e7f1783d1",
+    "format" : "image",
+    "displayName" : "Card 3@1x.png"
+  },
+  {
+    "libraryIdentifier" : "ab7be6eb2b339694b6ca71759f01103b",
+    "format" : "image",
+    "displayName" : "Card 4@1x.png"
+  },
+  {
+    "libraryIdentifier" : "8535664b37780ca5169dd6c05a54f770",
+    "format" : "image",
+    "displayName" : "Card 5@1x.png"
+  },
+  {
+    "libraryIdentifier" : "ae007ee541d997ed5ec82b7aae29217a",
+    "format" : "image",
+    "displayName" : "Card 2@1x.png"
+  },
+  {
+    "libraryIdentifier" : "dc23d742908b4e1cfe9e8475b4b3f612",
+    "format" : "image",
+    "displayName" : "Card Angklung.png"
+  },
+  {
+    "libraryIdentifier" : "9029baff8b99c4e26186792607e87999",
+    "format" : "image",
+    "displayName" : "Card Tifa.png"
+  },
+  {
+    "libraryIdentifier" : "997b7be6c588fef2ea5b4cef1dc033bb",
+    "format" : "image",
+    "displayName" : "Card Saron.png"
+  },
+  {
+    "libraryIdentifier" : "44238296161761fe73c369b0f0d5ee5a",
+    "format" : "image",
+    "displayName" : "Card Sapek.png"
+  },
+  {
+    "libraryIdentifier" : "caadd9f877e4e904ad913b46f7de7e2a",
+    "format" : "image",
+    "displayName" : "Card Gendang.png"
+  }
+]
